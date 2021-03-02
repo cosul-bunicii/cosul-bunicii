@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.4023710deb04b8916ac81374e26a78cf.js"
+  "precache-manifest.999bc5f5568af4bd5a7dc6337539d9ca.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "cosul-bunicii"});
